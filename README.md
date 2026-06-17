@@ -11,7 +11,7 @@
 </p>
 <picture> <img align="right" src="https://media.licdn.com/dms/image/v2/D5622AQGo6-VeJWb9LQ/feedshare-shrink_480/B56Zrq17uxLIAw-/0/1764876599010?e=2147483647&v=beta&t=7R_5nb2_J8B6O2s6Y0W7PcAhIuyiHBTqpbXPy2Udwqk" width = 250px></picture>
 <br>
-- 🌱 I’m currently learning JAVA,KOTLIN,PYTHON,MERN Stack
+- 🌱 I’m currently learning JAVA,PYTHON,PHP,C#,C++
 
 - 💬 Ask me about **JAVA**
 
